@@ -1,0 +1,19 @@
+.header{
+    background-color: aqua;
+    font-weight: bold;;
+    color: bisque;
+}
+#Description{
+    background-color: black;
+    color: aliceblue;
+}
+.ingredients{
+    background-color: blue;
+    color: beige;
+    font-weight: bold;
+}
+.steps{
+    background-color:darkcyan ;
+    color: lightgoldenrodyellow;
+    font-weight: bold;
+}
