@@ -1,7 +1,12 @@
+*{
+    padding: 10px;
+}
 .header{
     background-color: aqua;
     font-weight: bold;;
     color: bisque;
+    margin:  auto;
+    text-align: center;
 }
 #Description{
     background-color: black;
